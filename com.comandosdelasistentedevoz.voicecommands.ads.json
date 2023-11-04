@@ -1,23 +1,23 @@
 {
   "Data": [
     {
-      "network": "Yandex",
+      "network": "Admob",
       
       "inReview": false,
-      "likeUs": true,
+      "likeUs": false,
       "suspended": false,
       "webMode": false,
       "webLink": "",
       "newOne": "",
       "signal": "",
-      "profile_activity": true,
-      "phone_activity": true,
-      "age_activity": true,
-      "devices_activity": true,
+      "profile_activity": false,
+      "phone_activity": false,
+      "age_activity": false,
+      "devices_activity": false,
 
-      "interAds": "Yandex",
-      "bannerAds": "Yandex",
-      "nativeAds": "Yandex",
+      "interAds": "Admob",
+      "bannerAds": "Admob",
+      "nativeAds": "Admob",
       "interClick": 1,
       
       "key1": "",
